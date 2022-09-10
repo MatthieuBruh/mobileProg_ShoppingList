@@ -1,0 +1,1 @@
+httpsexpo.dev@matthieu_bruhAssignment4_ShoppingListserviceType=classic&distribution=expo-go
